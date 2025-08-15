@@ -7,7 +7,7 @@
   "homepage": "https://github.com/LLK/scratch-sb1-converter#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LLK/scratch-sb1-converter.git"
+    "url": "https://github.com/02engine/scratch-sb1-converter.git"
   },
   "main": "playground/main.js",
   "browser": "index.js",
